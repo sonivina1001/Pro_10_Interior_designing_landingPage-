@@ -4,7 +4,7 @@
 
 ![Time Taken](https://img.shields.io/badge/TIME_TAKEN-02h:30m:00s-blue.svg)
 
-[![DEMO](https://img.shields.io/badge/SEE_DEMO-view-red.svg)](https://pro-01-street-style-core-html-and-css.netlify.app/)
+[![DEMO](https://img.shields.io/badge/SEE_DEMO-view-red.svg)](https://pro-10-interior-designing-landingpage.netlify.app/)
 
 # Interior Decorators.
 
@@ -46,7 +46,7 @@ HTML, CSS...
 
 ### Authors
 
-##### Vinayak_soni
+#### Vinayak_soni
 
 
 
